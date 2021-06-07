@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398087111571",
+    "project_id": "mathten-cb6fb",
+    "storage_bucket": "mathten-cb6fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398087111571:android:c5488a92e52051bcc05e66",
+        "android_client_info": {
+          "package_name": "com.mathten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398087111571-sajk0hbqrooubdau7fl6g84tld0ru89h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathten",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "398087111571-ncc628d5van02rnmsecr64j1juknf5h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWlhvDhooiawKFkkGTYZhq8N-YG-7ANs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398087111571-ncc628d5van02rnmsecr64j1juknf5h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
